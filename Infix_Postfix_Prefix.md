@@ -88,3 +88,5 @@ You can use a similar trick to convert to and from parse trees - each bracketed 
 
 ((A*B)+(C/D))		((A*(B+C))/D) 		(A*(B+(C/D)))
 </PRE>
+
+> Source: https://www.cs.man.ac.uk/~pjj/cs212/fix.html
